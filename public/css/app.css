@@ -1,0 +1,5 @@
+.shglow:hover {
+    box-shadow: inset 0px -15px 10px -15px #0dcaf0;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
