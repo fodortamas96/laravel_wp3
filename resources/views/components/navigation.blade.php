@@ -1,6 +1,6 @@
-<nav class="navbar navbar-dark bg-dark navbar-expand-lg fixed-top">
+<nav class="navbar navbar-dark bg-dark navbar-expand-lg fixed-top border-bottom border-info">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/">{{ config('app.name') }}</a>
+        <a class="navbar-brand" href="/">{{ config('app.name') }}<i class="fa-solid fa-piggy-bank ms-2"></i></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
