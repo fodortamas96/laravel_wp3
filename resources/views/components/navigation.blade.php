@@ -7,16 +7,16 @@
         <div class="collapse navbar-collapse" id="navbarToggler">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 border border-info border-start-0 border-end-0 border-top-0">
                 <li class="nav-item shglow">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="#">{{ 'Home' }}</a>
                 </li>
                 <li class="nav-item shglow">
-                    <a class="nav-link" href="#">Jobs</a>
+                    <a class="nav-link" href="#">{{ 'Jobs' }}</a>
                 </li>
                 <li class="nav-item shglow">
-                    <a class="nav-link" href="#">Log In</a>
+                    <a class="nav-link" href="#">{{ 'Log In' }}</a>
                 </li>
                 <li class="nav-item shglow">
-                    <a class="nav-link" href="#">Register</a>
+                    <a class="nav-link" href="#">{{ 'Register' }}</a>
                 </li>
               </ul>
         </div>
